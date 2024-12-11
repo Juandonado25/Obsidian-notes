@@ -1,0 +1,1 @@
+A hub is a device used to connect multiple devices in a [[Network]]. **It takes the signal received on one input port and retransmit it to all other ports**. It is a basic networking device that operates at layer 1 (Physical Layer) of the OSI model.
