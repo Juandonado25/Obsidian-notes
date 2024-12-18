@@ -1,1 +1,0 @@
-UTP (Unshielded Twisted Pair) is a type of cable made up of four pairs of copper wires twisted together to help reduce external interference. It is commonly used to connect devices such as computers, switches, and access points.

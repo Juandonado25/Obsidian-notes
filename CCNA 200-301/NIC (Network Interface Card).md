@@ -1,1 +1,0 @@
-It is a hardware component that allows a device to connect to a [[Network]]. It works as a medium between the device and the network, facilitating communication and data exchange.

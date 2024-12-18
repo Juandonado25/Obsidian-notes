@@ -1,0 +1,1 @@
+A client is an essential component in a [[Network]] because it initiates the communication in the Cliente-[[Server]] model.Its primary role is to request and consume information or services provided by a server. Clients can be devices such as computers, smartphones, or applications that interact with servers to perform specific tasks.

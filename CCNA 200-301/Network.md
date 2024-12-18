@@ -1,1 +1,0 @@
-It is a group of devices that communicate with each other through different means, such as cables, radio waves ,or light.

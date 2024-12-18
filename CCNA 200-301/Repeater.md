@@ -1,1 +1,0 @@
-A repeater is a device that amplifies and retransmits a signal in a network. It helps to extends the range of the network by strengthening the signal, ensuring that it can travel longer distances without degradation.
