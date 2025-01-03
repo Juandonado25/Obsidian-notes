@@ -6,6 +6,10 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPencil",
+      "LiExcalidrawIcon",
+      "LiArchive",
+      "🗄",
       "LiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
@@ -30,5 +34,16 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Networking": "LiNetwork"
+  "Networking": {
+    "iconName": "LiNetwork",
+    "iconColor": "#0579e6"
+  },
+  "Miscellany": {
+    "iconName": "LiArchive",
+    "iconColor": "#db9f1f"
+  },
+  "Excalidraw": {
+    "iconName": "LiPencil",
+    "iconColor": "#ed2c2c"
+  }
 }
