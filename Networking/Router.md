@@ -1,4 +1,4 @@
-_A router is a [[Network]] device that connects different types of networks and directs data traffic between them. It operates at Layer 3 (Network Layer) of the OSI model, where it uses IP addresses to determine the best path for data to reach its destination._
+A router is a [[Network]] device that connects different types of networks and directs data traffic between them. It operates at Layer 3 (Network Layer) of the OSI model, where it uses IP addresses to determine the best path for data to reach its destination.
 
 ### **Additional Details:**
 
