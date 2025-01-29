@@ -1,1 +1,1 @@
-It is a group of devices that communicate with each other through different means, such as cables, radio waves ,or light.
+It is a group of end devices that communicate with each other through various means, such as cables, radio waves, or light.

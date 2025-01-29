@@ -1,0 +1,1 @@
+These are devices capable of connecting to a network to send and receive information. These devices are located at the endpoints of communication and serve as the origin and destination of data.
