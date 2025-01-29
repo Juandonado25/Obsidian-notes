@@ -18,4 +18,6 @@ Capa 4 se manejan los puertos, los puertos representan un programa.es donde se u
 
 Capa 3: Se dice que los routers trabajan en capa 3, y esto es porque aca se trabaja con las idrecciones ip.
 
-Capa 2: Aca trabajan los switch, este dirige el dato a la pc segun su direccion MAC
+Capa 2: Aca trabajan los switch, este dirige el dato a la pc segun su direccion MAC 
+
+sds
