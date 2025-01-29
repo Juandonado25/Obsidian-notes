@@ -2,6 +2,8 @@
 
 ssh command: ssh bandit#@bandit.labs.overthewire.org -p 2220
 
+ghp_nyZyaYLmq QqEZtL5VeZ7l2Tm233Wru47D1fc
+
 level 0: bandit0
 - cat readme
 
