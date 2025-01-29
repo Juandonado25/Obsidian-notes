@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Borrador.md",
+                "file": "Wargames/Bandit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Borrador"
+              "title": "Bandit"
             }
           }
         ]
@@ -175,8 +175,8 @@
   },
   "active": "85c4f188d9cbfca3",
   "lastOpenFiles": [
-    "Networking/Modem.md",
     "Networking/Borrador.md",
+    "Networking/Modem.md",
     "Networking/End devices.md",
     "Networking/Sin nombre",
     "Networking/Network.md",
