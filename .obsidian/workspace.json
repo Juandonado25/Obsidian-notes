@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Subneting.md",
+                "file": "Wargames/Bandit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subneting"
+              "title": "Bandit"
             }
           },
           {
@@ -189,9 +189,11 @@
   },
   "active": "85c4f188d9cbfca3",
   "lastOpenFiles": [
-    "Networking/IP (Internet protocol).md",
-    "Networking/Subneting.md",
     "Networking/Borrador.md",
+    "Networking/Algoritmos de enrutamiento.md",
+    "Wargames/Bandit.md",
+    "Networking/Subneting.md",
+    "Networking/IP (Internet protocol).md",
     "Networking/Protocolos de cada capa.md",
     "Networking/PDU (Protocol Data Unit).md",
     "Networking/OSI Model.md",
@@ -199,7 +201,6 @@
     "Networking/Tipos de redes.md",
     "Pasted image 20250129115715.png",
     "Networking/Three-Way Handshake.md",
-    "Wargames/Bandit.md",
     "Networking/Modem.md",
     "Networking/End devices.md",
     "Networking/Sin nombre",
@@ -220,7 +221,6 @@
     "Excalidraw/Drawing 2024-12-18 13.01.15.excalidraw.md",
     "Excalidraw",
     "Miscellany",
-    "Miscellany/ChatGPT career path.md",
-    "Networking/MAC address (Media Access Control Address).md"
+    "Miscellany/ChatGPT career path.md"
   ]
 }

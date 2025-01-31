@@ -11,6 +11,7 @@ como es la operacion para calcular ip de red?
 Que son los puertos?
 Ip de red e ip de broadcast??
 Ip de red es una ip publica o privada?
+protocolo DHCP
 
 Modelo OSI
 
