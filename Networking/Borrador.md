@@ -9,6 +9,8 @@ mascarad de subred que es?
 Que es la ip de red?
 como es la operacion para calcular ip de red?
 Que son los puertos?
+Ip de red e ip de broadcast??
+Ip de red es una ip publica o privada?
 
 Modelo OSI
 
@@ -20,4 +22,14 @@ Capa 3: Se dice que los routers trabajan en capa 3, y esto es porque aca se trab
 
 Capa 2: Aca trabajan los switch, este dirige el dato a la pc segun su direccion MAC 
 
-sds
+La operacion para calcular el ip de red es una multiplicación (Una operacion con AND).
+
+ ---
+ 
+
+
+
+
+---
+**Preguntas:**
+- Porque los cables tienen un alcance corto?
